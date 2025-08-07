@@ -17,3 +17,10 @@ $ cd dotenvx-boot-demo
 $ dotenvx set --encrypt nick Jackie
 $ dotenvx -p test set --encrypt nick Tester
 ```
+
+Then check your application.properties and start the application.
+
+
+# References
+
+- dotenvx-spring-boot: https://github.com/linux-china/dotenvx-spring-boot
